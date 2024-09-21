@@ -72,7 +72,8 @@ Large Language Models (LLM).
   <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img alt="scikit-learn" width="30px" src="https://www.stepbystepdatascience.com/scikit-learn-tutorial-python-machine-learning" />
+  <img alt="scikit-learn" width="30px" src="https://github.com/user-attachments/assets/c3052d3a-41d3-4f03-ad91-35b1896e133c"
+" />
 </div>
 
 
@@ -148,7 +149,7 @@ Large Language Models (LLM).
   <h3>Contributions</h3>
   <ul style="list-style-type: none; padding: 0;">
     <li>
-      <img src="https://img.icons8.com/color/20/000000/hugging-face.png" alt="Hugging Face" style="vertical-align: middle;"/> 
+      <img src="https://huggingface.co/" alt="Hugging Face" style="vertical-align: middle;"/> 
       <strong>Hugging Face</strong>: Actively using and contributing to open-source models and datasets for NLP and generative AI tasks.
     </li>
     <li>
@@ -164,41 +165,8 @@ Large Language Models (LLM).
       <strong>Medium Articles</strong>: Writing about my learning journey and sharing best practices in data science and machine learning.
     </li>
   </ul>
-
-  <h3>Tools & Technologies I Use</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/hugging-face.png" alt="Hugging Face Transformers" style="vertical-align: middle;"/> 
-      <strong>Hugging Face Transformers</strong>: For state-of-the-art NLP and generative AI models.
-    </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle;"/> 
-      <strong>Kaggle</strong>: For competitions, datasets, and community engagement.
-    </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/scikit-learn.png" alt="scikit-learn" style="vertical-align: middle;"/> 
-      <strong>scikit-learn</strong>: For machine learning algorithms and data preprocessing.
-    </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/tensorflow.png" alt="TensorFlow" style="vertical-align: middle;"/> 
-      <strong>TensorFlow/PyTorch</strong>: For deep learning model development.
-    </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/numpy.png" alt="Pandas & NumPy" style="vertical-align: middle;"/> 
-      <strong>Pandas & NumPy</strong>: For data manipulation and analysis.
-    </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/matplotlib.png" alt="Matplotlib" style="vertical-align: middle;"/> 
-      <strong>Matplotlib & Seaborn</strong>: For data visualization.
-    </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/jupyter.png" alt="Jupyter Notebooks" style="vertical-align: middle;"/> 
-      <strong>Jupyter Notebooks</strong>: For interactive coding and sharing insights.
-    </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/dvc.png" alt="DVC" style="vertical-align: middle;"/> 
-      <strong>DVC (Data Version Control)</strong>: For managing datasets and machine learning projects.
-    </li>
+ 
+ 
   </ul>
 
   <h3>Ongoing Projects</h3>
