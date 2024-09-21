@@ -61,7 +61,6 @@ Large Language Models (LLM).
   <img alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img alt="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
   <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
   <img alt="pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img alt="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
@@ -73,38 +72,149 @@ Large Language Models (LLM).
   <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img alt="scikit-learn" width="30px" src="https://www.stepbystepdatascience.com/scikit-learn-tutorial-python-machine-learning" />
 </div>
 
+
 <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/NimraAslamkhan?tab=repositories'><img align='center' height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=NimraAslamkhan&logoColor=blue" /></a></h4>
+
 
 
 ## 🌱 My Latest Blog Posts
 1. **"Effective Feature Selection Techniques for Machine Learning"**  
    Learn how to select the most relevant features for machine learning models and improve model accuracy using techniques like PCA, Recursive Feature Elimination, and feature importance in **Python**.
-   <a href="https://medium.com/data-science-blog/effective-feature-selection-techniques-ml"><img align='center'  height="22" src="https://img.shields.io/badge/Read More!-green.svg?&
-
-   <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/NimraAslamkhan?tab=repositories'><img align='center' height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=NimraAslamkhan&logoColor=blue" /></a></h4>
+   <a href="https://medium.com/data-science-blog/effective-feature-selection-techniques-ml"><img align='center' height="22" src="https://img.shields.io/badge/Read%20More!-green.svg?" /></a>
 
 <br>
 <div align="left">
-  My Latest Blog Posts 🌱
+
+<h2 align="center">
+  🌱 My Learning Journey in AI and Data Science
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" alt="Python Logo"/>
+</h2>
+
 <br>
 
-  - <a href="https://yourblogurl.com/post1">Understanding Machine Learning</a>
-  - <a href="https://yourblogurl.com/post2">Data Science Basics</a>
-  - <a href="https://yourblogurl.com/post3">Exploring Python Libraries</a>
-  - <a href="https://yourblogurl.com/post4">Deep Learning Fundamentals</a>
-  - <a href="https://yourblogurl.com/post5">Feature Engineering Techniques</a>
-  - <a href="https://yourblogurl.com/post6">Building a Credit Card Fraud Detection System</a>
-  - <a href="https://yourblogurl.com/post7">NLP Techniques for Beginners</a>
-  - <a href="https://yourblogurl.com/post8">Understanding Reinforcement Learning</a>
-  - <a href="https://yourblogurl.com/post9">A Guide to Data Visualization</a>
-  - <a href="https://yourblogurl.com/">➡️ More blog posts ... </a>
-</div>  
+<div align="left">
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <strong>AI:</strong> Exploring New Techniques in AI
+    </li>
+    <li>
+      <strong>Data Science:</strong> Latest Trends in Data Science
+    </li>
+    <li>
+      <strong>Generative AI:</strong> Hands-On with Generative AI
+    </li>
+    <li>
+      <strong>Machine Learning:</strong> Diving into Machine Learning Models
+    </li>
+    <li>
+      <strong>Tools:</strong> Learning About Advanced AI Tools and Techniques
+    </li>
+    <li>
+      <strong>Frameworks:</strong> Experimenting with New ML Frameworks
+    </li>
+    <li>
+      <strong>Neural Networks:</strong> Understanding Neural Networks and Deep Learning
+    </li>
+    <li>
+      <strong>NLP:</strong> Discovering Innovations in NLP
+    </li>
+    <li>
+      <strong>AI Applications:</strong> Building Real-World AI Applications
+    </li>
+    <li>
+      <strong>➡️ More topics as I learn ...</strong>
+    </li>
+  </ul>
+</div>
 
----
+<br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/NimraAslamkhan) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<p align="center">
+  <a href="https://github.com/NimraAslamkhan">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?:heart:" alt="Open Source Love"/>
+  </a>
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+</p>
+
+
+<h2 align="center">🌟 My Contributions and Tools in Data Science & AI</h2>
+
+<br>
+
+<div align="left">
+  <h3>Contributions</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/hugging-face.png" alt="Hugging Face" style="vertical-align: middle;"/> 
+      <strong>Hugging Face</strong>: Actively using and contributing to open-source models and datasets for NLP and generative AI tasks.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle;"/> 
+      <strong>Kaggle</strong>: Participating in competitions and sharing insights through notebooks and discussions.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/github.png" alt="GitHub" style="vertical-align: middle;"/> 
+      <strong>GitHub</strong>: Collaborating on projects and contributing to various machine learning repositories.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/medium-logo.png" alt="Medium" style="vertical-align: middle;"/> 
+      <strong>Medium Articles</strong>: Writing about my learning journey and sharing best practices in data science and machine learning.
+    </li>
+  </ul>
+
+  <h3>Tools & Technologies I Use</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/hugging-face.png" alt="Hugging Face Transformers" style="vertical-align: middle;"/> 
+      <strong>Hugging Face Transformers</strong>: For state-of-the-art NLP and generative AI models.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle;"/> 
+      <strong>Kaggle</strong>: For competitions, datasets, and community engagement.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/scikit-learn.png" alt="scikit-learn" style="vertical-align: middle;"/> 
+      <strong>scikit-learn</strong>: For machine learning algorithms and data preprocessing.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/tensorflow.png" alt="TensorFlow" style="vertical-align: middle;"/> 
+      <strong>TensorFlow/PyTorch</strong>: For deep learning model development.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/numpy.png" alt="Pandas & NumPy" style="vertical-align: middle;"/> 
+      <strong>Pandas & NumPy</strong>: For data manipulation and analysis.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/matplotlib.png" alt="Matplotlib" style="vertical-align: middle;"/> 
+      <strong>Matplotlib & Seaborn</strong>: For data visualization.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/jupyter.png" alt="Jupyter Notebooks" style="vertical-align: middle;"/> 
+      <strong>Jupyter Notebooks</strong>: For interactive coding and sharing insights.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/dvc.png" alt="DVC" style="vertical-align: middle;"/> 
+      <strong>DVC (Data Version Control)</strong>: For managing datasets and machine learning projects.
+    </li>
+  </ul>
+
+  <h3>Ongoing Projects</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/project.png" alt="AI Model Development" style="vertical-align: middle;"/> 
+      <strong>AI Model Development</strong>: Working on projects involving the latest ML models and techniques.
+    </li>
+    <li>
+      <img src="https://img.icons8.com/color/20/000000/research.png" alt="Data Science Research" style="vertical-align: middle;"/> 
+      <strong>Data Science Research</strong>: Exploring innovative applications of AI in various domains.
+    </li>
+  </ul>
+</div>
+
+<hr>
 
 
 
