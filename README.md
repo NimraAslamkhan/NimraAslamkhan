@@ -5,29 +5,22 @@
 A Data Scientist & AI Engineer | Proficient in Python| Master's in Mathematics  | A Freelancer 💻 | Machine Learning and Deep Learning enthusiastic | Open source enthusiastic | Enjoy learning new techs | Create content ! 😊  <br>
 
 
+- 👯 I’m looking to collaborate on [`Machine Learning-projects`](https://github.com/NimraAslamkhan/Machine-Learning-journey)
+- 💬 Ask me about  Python, data Analysis , 
+Machine Learning, 
+Natural Language Processing (NLP), 
+Deep Learning, 
+Generative AI, and 
+Large Language Models (LLM). 
+- 📫  How to reach me: nimraaslam3132@gmail.com
+- <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
+</details> <br>
 
-## About Me
+🔗 Connect with me :
 
-I’m a [Your Job Title/Role] based in [Your Location]. I have a passion for [Your Interests/Technologies]. I love to explore new technologies and work on exciting projects.
+[![Linkedin: Nimra Aslam](https://img.shields.io/badge/-NIMRA%20Aslam-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/nimra-aslam-9652b3247"/)](https://www.linkedin.com/in/nimra-aslam-9652b3247/overlay/about-this-profile/ )
 
-### Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
+<img height="27" src="https://img.shields.io/badge/Nimra Aslam' GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=Nimra Aslam&logoColor=blue" />
+<p>&nbsp;<img align="center" src="https://github.com/NimraAslamkhan/NimraAslamkhan/edit/main/README.md" alt="Nimra Aslam"/></p>
 
-### Projects
-
-- [Project 1](link-to-your-project)
-- [Project 2](link-to-your-project)
-- [Project 3](link-to-your-project)
-
-### Connect with Me
-
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Website](your-website-url)
-
-![Your Image](https://link-to-your-image.jpg)
-![Blue Simple Cyber Monday Instagram Post](https://github.com/user-attachments/assets/2b097642-3784-405d-887b-dba943c97f6b)
