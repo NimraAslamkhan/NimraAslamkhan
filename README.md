@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm Nimra Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-A Data Scientist & AI Engineer | Proficient in Python| Master's in Mathematics  | A Freelancer 💻 | Machine Learning and Deep Learning enthusiastic | Open source enthusiastic | Enjoy learning new techs | Create content ! 😊  <br>
+A Data Scientist & AI Engineer | Proficient in Python| Master's in Mathematics  | A Freelancer 💻 | Machine Learning and Deep Learning enthusiastic | Open source enthusiastic | Enjoy learning new technologies  ! 😊  <br>
 
 
 - 👯 I’m looking to collaborate on [`Machine Learning-projects`](https://github.com/NimraAslamkhan/Machine-Learning-journey)
