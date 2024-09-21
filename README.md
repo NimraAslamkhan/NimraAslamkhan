@@ -54,3 +54,57 @@ Large Language Models (LLM).
 
 <br>
 
+## 🧰 Most Used Languages and Tools
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img alt="Keras" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+  <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+  <img alt="pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img alt="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+  <img alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="33px" src="https://user-images.githubusercontent.com/61356005/208843069-40a7e20b-0872-44d9-a752-a87e493f3faa.png" />
+  <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+</div>
+
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/NimraAslamkhan?tab=repositories'><img align='center' height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=NimraAslamkhan&logoColor=blue" /></a></h4>
+
+
+## 🌱 My Latest Blog Posts
+1. **"Effective Feature Selection Techniques for Machine Learning"**  
+   Learn how to select the most relevant features for machine learning models and improve model accuracy using techniques like PCA, Recursive Feature Elimination, and feature importance in **Python**.
+   <a href="https://medium.com/data-science-blog/effective-feature-selection-techniques-ml"><img align='center'  height="22" src="https://img.shields.io/badge/Read More!-green.svg?&
+
+   <h4 align="center">Show ❤️ By Starring My <a href='https://github.com/NimraAslamkhan?tab=repositories'><img align='center' height="22" src="https://img.shields.io/badge/Repos!😊👋 -purple.svg?&style=for-the-badge&logo=NimraAslamkhan&logoColor=blue" /></a></h4>
+
+<br>
+<div align="left">
+  My Latest Blog Posts 🌱
+<br>
+
+  - <a href="https://yourblogurl.com/post1">Understanding Machine Learning</a>
+  - <a href="https://yourblogurl.com/post2">Data Science Basics</a>
+  - <a href="https://yourblogurl.com/post3">Exploring Python Libraries</a>
+  - <a href="https://yourblogurl.com/post4">Deep Learning Fundamentals</a>
+  - <a href="https://yourblogurl.com/post5">Feature Engineering Techniques</a>
+  - <a href="https://yourblogurl.com/post6">Building a Credit Card Fraud Detection System</a>
+  - <a href="https://yourblogurl.com/post7">NLP Techniques for Beginners</a>
+  - <a href="https://yourblogurl.com/post8">Understanding Reinforcement Learning</a>
+  - <a href="https://yourblogurl.com/post9">A Guide to Data Visualization</a>
+  - <a href="https://yourblogurl.com/">➡️ More blog posts ... </a>
+</div>  
+
+---
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/NimraAslamkhan) <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
+
+
