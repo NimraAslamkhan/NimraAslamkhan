@@ -1,4 +1,5 @@
-# Hello, I'm [Your Name] 👋
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,developer!-Welcome%20to%20my%20profile<3-FF6666.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan)[![Profile](https://github.com/NimraAslamkhan)](https://github.com/NimraAslamkhan)[![followers](https://github.com/NimraAslamkhan?tab=following) 
+
 
 ## About Me
 
