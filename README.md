@@ -125,9 +125,7 @@ Large Language Models (LLM).
     <li>
       <strong>AI Applications:</strong> Building Real-World AI Applications
     </li>
-    <li>
-      <strong>➡️ More topics as I learn ...</strong>
-    </li>
+    
   </ul>
 </div>
 
@@ -175,10 +173,7 @@ Large Language Models (LLM).
       <img src="https://img.icons8.com/color/20/000000/project.png" alt="AI Model Development" style="vertical-align: middle;"/> 
       <strong>AI Model Development</strong>: Working on projects involving the latest ML models and techniques.
     </li>
-    <li>
-      <img src="https://img.icons8.com/color/20/000000/research.png" alt="Data Science Research" style="vertical-align: middle;"/> 
-      <strong>Data Science Research</strong>: Exploring innovative applications of AI in various domains.
-    </li>
+    
   </ul>
 </div>
 
