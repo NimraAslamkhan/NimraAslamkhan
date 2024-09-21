@@ -141,7 +141,7 @@ Large Language Models (LLM).
 </p>
 
 
-<h2 align="center">🌟 My Contributions and Tools in Data Science & AI</h2>
+<h2 align="center">🌟 My Contributions  in Data Science & AI</h2>
 
 <br>
 
