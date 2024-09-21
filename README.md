@@ -142,27 +142,36 @@ Large Language Models (LLM).
 <h2 align="center">🌟 My Contributions  in Data Science & AI</h2>
 
 <br>
-
 <div align="left">
   <h3>Contributions</h3>
   <ul style="list-style-type: none; padding: 0;">
     <li>
-      <img src="https://huggingface.co/" alt="Hugging Face" style="vertical-align: middle;"/> 
-      <strong>Hugging Face</strong>: Actively using and contributing to open-source models and datasets for NLP and generative AI tasks.
+      <a href="https://huggingface.co/nimraaslam7777" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ebc2eca2-934b-4153-8260-7a9837d40fe4" alt="Hugging Face" style="vertical-align: middle; width: 40px; margin-right: 8px;"/>
+        <strong>Hugging Face</strong>
+      </a>: Actively using and contributing to open-source models and datasets for NLP and generative AI tasks.
     </li>
     <li>
-      <img src="https://img.icons8.com/color/20/000000/kaggle.png" alt="Kaggle" style="vertical-align: middle;"/> 
-      <strong>Kaggle</strong>: Participating in competitions and sharing insights through notebooks and discussions.
+      <a href="https://www.kaggle.com/nimraaslamkhan" target="_blank">
+        <img src="https://github.com/user-attachments/assets/ee11beca-eef4-454e-aa6b-82aa0801c61d" alt="Kaggle" style="vertical-align: middle; width: 40px; margin-right: 8px;"/>
+        <strong>Kaggle</strong>
+      </a>: Participating in competitions and sharing insights through notebooks and discussions.
     </li>
     <li>
-      <img src="https://img.icons8.com/color/20/000000/github.png" alt="GitHub" style="vertical-align: middle;"/> 
-      <strong>GitHub</strong>: Collaborating on projects and contributing to various machine learning repositories.
+      <a href="https://github.com/NimraAslamkhan" target="_blank">
+        <img src="https://img.icons8.com/color/20/000000/github.png" alt="GitHub" style="vertical-align: middle; width: 40px; margin-right: 8px;"/>
+        <strong>GitHub</strong>
+      </a>: Collaborating on projects and contributing to various machine learning repositories.
     </li>
     <li>
-      <img src="https://img.icons8.com/color/20/000000/medium-logo.png" alt="Medium" style="vertical-align: middle;"/> 
-      <strong>Medium Articles</strong>: Writing about my learning journey and sharing best practices in data science and machine learning.
+      <a href="https://medium.com/@nimraaslam" target="_blank">
+        <img src="https://img.icons8.com/color/20/000000/medium-logo.png" alt="Medium" style="vertical-align: middle; width: 40px; margin-right: 8px;"/>
+        <strong>Medium Articles</strong>
+      </a>: Writing about my learning journey and sharing best practices in data science and machine learning.
     </li>
   </ul>
+</div>
+
  
  
   </ul>
