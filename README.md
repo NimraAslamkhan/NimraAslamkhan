@@ -13,6 +13,7 @@ Deep Learning,
 Generative AI, and 
 Large Language Models (LLM).
 
+
 - 📫  How to reach me:  nimraaslam3132@gmail.com
 - <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
 </details> <br>
@@ -57,6 +58,7 @@ Large Language Models (LLM).
 <br>
 <!-- <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=Nimra Aslam&logoColor=blue" /> -->
 
+
 ## 🧰 Most Used Languages and Tools
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -84,13 +86,6 @@ Large Language Models (LLM).
 
 
 
-## 🌱 My Latest Blog Posts
-1. **"Effective Feature Selection Techniques for Machine Learning"**  
-   Learn how to select the most relevant features for machine learning models and improve model accuracy using techniques like PCA, Recursive Feature Elimination, and feature importance in **Python**.
-   <a href="https://medium.com/data-science-blog/effective-feature-selection-techniques-ml"><img align='center' height="22" src="https://img.shields.io/badge/Read%20More!-green.svg?" /></a>
-
-<br>
-<div align="left">
 
 <h2 align="center">
   🌱 My Learning Journey in AI and Data Science
@@ -134,12 +129,6 @@ Large Language Models (LLM).
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/NimraAslamkhan">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?:heart:" alt="Open Source Love"/>
-  </a>
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-</p>
 
 
 <h2 align="center">🌟 My Contributions  in Data Science & AI</h2>
@@ -189,7 +178,21 @@ Large Language Models (LLM).
   </ul>
 </div>
 
-<hr>
+## 🌱 My Latest Blog Posts
+1. **"Effective Feature Selection Techniques for Machine Learning"**  
+   Learn how to select the most relevant features for machine learning models and improve model accuracy using techniques like PCA, Recursive Feature Elimination, and feature importance in **Python**.
+   <a href="https://medium.com/data-science-blog/effective-feature-selection-techniques-ml"><img align='center' height="22" src="https://img.shields.io/badge/Read%20More!-green.svg?" /></a>
 
+<br>
+<div align="left">
+
+
+<hr>
+<p align="center">
+  <a href="https://github.com/NimraAslamkhan">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?:heart:" alt="Open Source Love"/>
+  </a>
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+</p>
 
 
