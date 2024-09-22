@@ -1,31 +1,39 @@
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,developer!-Welcome%20to%20my%20profile<3-FF6666.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan)[![Profile](https://github.com/NimraAslamkhan)](https://github.com/NimraAslamkhan)[![followers](https://github.com/NimraAslamkhan?tab=following) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,developer!-Welcome%20to%20my%20profile<3-FF6666.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan)[![Profile](https://Visitor-badge.glitch.me/badge?page_id=Nimra-Aslam.profileviews-badge)](https://github.com/NimraAslamkhan)[![followers](https://img.shields.io/github/followers/Nimra-Aslam?style=social)](https://github.com/NimraAslamkhan?tab=following) 
 
 <h3 align="center"> I'm Nimra Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 A Data Scientist & AI Engineer | Proficient in Python| Master's in Mathematics  | A Freelancer 💻 | Machine Learning and Deep Learning enthusiastic | Open source enthusiastic | Enjoy learning new technologies  ! 😊  <br>
 
 
-- 👯 I’m looking to collaborate on [`Machine Learning-projects`](https://github.com/NimraAslamkhan/Machine-Learning-journey)
-- 💬 Ask me about  Python, data Analysis , 
+- 👯 I’m looking to collaborate on   [`Machine Learning-projects`](https://github.com/NimraAslamkhan/Machine-Learning-journey)
+- 💬 Ask me about  Python, Data Analysis , 
 Machine Learning, 
 Natural Language Processing (NLP), 
 Deep Learning, 
 Generative AI, and 
-Large Language Models (LLM). 
-- 📫  How to reach me: nimraaslam3132@gmail.com
+Large Language Models (LLM).
+
+- 📫  How to reach me:  nimraaslam3132@gmail.com
 - <details> <summary>:zap: Fun fact</summary> Scratch here ▒▒▒▒▒▒▒▒▒▒ to unveil my fun fact Lol😂
 </details> <br>
 
 🔗 Connect with me :
 
 [![Linkedin: Nimra Aslam](https://img.shields.io/badge/-NIMRA%20Aslam-blue?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/nimra-aslam-9652b3247"/)](https://www.linkedin.com/in/nimra-aslam-9652b3247/overlay/about-this-profile/ )
+[![youtube : Nimra Aslam](https://img.shields.io/badge/-Nimra%20Aslam-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logocolor=FF0000&link=https://https://www.youtube.com/@nimraaslamkhan)](https://www.youtube.com/@nimraaslamkhan)
+
+<!-- <p align="left"><img src="https://github.com/NimraAslamkhan/NimraAslamkhan/blob/master/Profile%20generator/android-original-wordmark.svg" alt="android" width="30" height="30"/> <img src="https://github.com/NimraAslamkhan/NimraAslamkhan/blob/master/Profile%20generator/c-original.svg" alt="c" width="30" height="30"/> <img src="https://github.com/NimraAslamkhan/NimraAslamkhan//blob/master/Profile%20generator/cplusplus-original.svg" alt="cplusplus" width="30" 
+
 
 
 <img height="27" src="https://img.shields.io/badge/Nimra Aslam' GitHub Stats - 😊-red.svg?&style=for-the-badge&logo=Nimra Aslam&logoColor=blue" />
 <p>&nbsp;<img align="center" src="https://github.com/NimraAslamkhan/NimraAslamkhan/edit/main/README.md" alt="Nimra Aslam"/></p>
 
 
-|      Project :octocat:   |  [**Projects**](https://github.com/NimraAslamkhan?tab=repositories) |
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**Projects**](https://github.com/NimraAslamkhan?tab=repositories) |
+
 
 
 <!-- ## Recent GitHub Activity -->
