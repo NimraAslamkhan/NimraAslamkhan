@@ -30,12 +30,6 @@ Large Language Models (LLM).
 <p>&nbsp;<img align="center" src="https://github.com/NimraAslamkhan/NimraAslamkhan/edit/main/README.md" alt="Nimra Aslam"/></p>
 
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|-------------|-------------------|---|---|
-| [**Projects**](https://github.com/NimraAslamkhan?tab=repositories) |
-
-
-
 <!-- ## Recent GitHub Activity -->
 <details>
 	<summary> My Recent GitHub Activity</summary>
@@ -61,6 +55,7 @@ Large Language Models (LLM).
 </details>
 
 <br>
+<!-- <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=Nimra Aslam&logoColor=blue" /> -->
 
 ## 🧰 Most Used Languages and Tools
 
