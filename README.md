@@ -1,4 +1,4 @@
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,developer!-Welcome%20to%20my%20profile<3-FF6666.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan)[![Profile](https://Visitor-badge.glitch.me/badge?page_id=Nimra-Aslam.profileviews-badge)](https://github.com/NimraAslamkhan)[![followers](https://img.shields.io/github/followers/Nimra-Aslam?style=social)](https://github.com/NimraAslamkhan?tab=following) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,developer!-Welcome%20to%20my%20profile<3-FF6666.svg?style=flat&logo=github)](https://github.com/NimraAslamkhan)[![Profile](https://Visitor-badge.glitch.me/badge?page_id=Nimra-Aslam.profileviews-badge)](https://github.com/NimraAslamkhan)[![followers](https://img.shields.io/github/followers/Nimra-Aslam?style=social)](https://github.com/NimraAslamkhan?tab=followers) 
 
 <h3 align="center"> I'm Nimra Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
