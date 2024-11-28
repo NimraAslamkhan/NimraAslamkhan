@@ -129,7 +129,11 @@ Large Language Models (LLM).
 
 <br>
 
+# My Awesome Open Source Project
 
+## Contributors
+This project  participated in Hacktoberfest!  
+[![An image of @nimraaslamkhan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nimraaslamkhan)](https://holopin.io/@nimraaslamkhan)
 
 <h2 align="center">🌟 My Contributions  in Data Science & AI</h2>
 
